@@ -1,0 +1,6 @@
+node_modules
+storage/
+special/chat/liepin/error/*.json
+special/chat/liepin/error/*.json
+cookies/*.json
+.DS_Store

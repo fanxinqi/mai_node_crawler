@@ -1,0 +1,1 @@
+multitail -cT ANSI /Users/fred/.pm2/logs/main-out.log -cT ANSI /Users/fred/.pm2/logs/child1-out.log -cT ANSI /Users/fred/.pm2/logs/child2-out.log -cT ANSI /Users/fred/.pm2/logs/child3-out.log -cT ANSI /Users/fred/.pm2/logs/child4-out.log

@@ -1,0 +1,1 @@
+rsync -aP ./ root@106.75.209.77:/root/mai_node_crawler/
